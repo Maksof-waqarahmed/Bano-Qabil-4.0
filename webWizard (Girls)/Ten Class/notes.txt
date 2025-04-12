@@ -1,0 +1,18 @@
+CSS Selectors
+
+1) Element Selector (p) (b) (img)
+2) ID Selector (Unique) 
+3) Class Selector 
+
+
+(# sharp) for calling id in CSS
+
+Color:
+1) Predefined Color
+2) RGB (0 - 255)
+3) RGBA Red, Green, Blue, Alpha(0.0 1.0) 
+4) Hex (rr, gg, bb) (00-ff)
+5) HSL
+6) HSLA
+
+https://htmlcolorcodes.com/color-names/

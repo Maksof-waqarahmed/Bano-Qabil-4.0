@@ -1,0 +1,31 @@
+/* a{
+    text-decoration: none;
+}
+#blue-color{
+    color: blue;
+}
+
+.color_blue{
+    color: red;
+}
+
+.size-large{
+    font-size: 20px;
+} */
+
+p{
+    /* color: IndianRed; predefined color */
+    /* color: rgb(255, 20, 147); */
+    /* color: rgba(255, 20, 147, 0.5); */
+    color: #FF4500;
+    text-transform: uppercase;
+    /* letter-spacing: 5px; */
+    /* word-spacing: 30px; */
+    /* text-align: justify; */
+    /* text-decoration: line-through; */
+    direction: rtl;
+    
+}
+
+
+
