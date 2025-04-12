@@ -1,0 +1,27 @@
+{} => Curly Braces 
+; => Terminator, Statement Terminator
+"" => Double Quotes
+'' => Single Quotes
+# => Sharp
+
+HTML Syntax
+HTMLElement{
+    property: value;
+}
+
+
+CSS Selectors
+1) Element Selector (p) (img)
+2) Id Selector (Unique)
+3) Class Selector (Multiple)
+
+
+6 ways to add color in CSS
+1) Predefined Color Name (140+)
+2) RGB (Red, Green, Blue) (0 - 255)
+3) RGBA (Alpha) (0.0 - 1)
+4) Hex (rr, gg, bb)
+5) HSL
+6) HSLA
+
+https://htmlcolorcodes.com/color-names/

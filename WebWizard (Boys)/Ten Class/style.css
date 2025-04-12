@@ -1,0 +1,32 @@
+/* 
+p{
+    color: red;
+}
+#color-blue{
+    color: blue;
+}
+.color-pink{
+    color: plum;
+}
+.size{
+    font-size: 20px;
+} */
+
+p{
+    /* color: red; */
+
+    /* color: rgb(178, 34, 34); */
+
+    /* color: rgba(178, 34, 34, 0.8); */
+
+    color: #E95965;
+    text-align: justify;
+    text-transform:capitalize;
+    /* text-decoration: line-through; */
+    /* word-spacing: 20px; */
+    /* letter-spacing: 3px; */
+    /* direction: rtl; */
+    /* text-indent: 50px; */
+    text-shadow: -2px -2px 1px rgb(65, 63, 63);
+
+}
