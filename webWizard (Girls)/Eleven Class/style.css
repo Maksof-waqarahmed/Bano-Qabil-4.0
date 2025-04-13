@@ -1,0 +1,26 @@
+/* 
+p{
+    text-indent: 40px;
+} */
+
+
+/* p{
+    text-shadow: -2px -3px 1px #1B657E;
+} */
+
+p{
+   font-size: 30px; 
+   font-weight: 600;
+   font-style: italic;
+   font-family: 'Lucida Sans' , 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#container{
+    /* width:  500px; */
+    /* height: 300px; */
+    min-width: 400px;
+    min-height: 500px;
+    /* max-width: 600px;
+    max-height: 500px; */
+    background-color: bisque;
+}
