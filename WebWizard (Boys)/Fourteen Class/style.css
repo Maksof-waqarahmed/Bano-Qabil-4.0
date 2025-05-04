@@ -1,0 +1,63 @@
+div{
+    /* width: 200px;
+    height: 200px;
+    background-color: brown; */
+    /* transition-property: width, height, background-color; */
+    /* transition-property: all; */
+    /* transition-duration: 5s, 10s, 15s; */
+    /* transition-duration: 3s; */
+    /* transition-delay: 2s; */
+    /* transition-timing-function: ease-out; */
+    /* transition: all 3s ease-in-out 1s; */
+
+}
+
+div:hover{
+    /* width: 300px;
+    height: 300px; */
+    /* background-color: blue; */
+    /* transform: scale(1.1); */
+    /* transform: rotate(45deg); */
+    /* transform: translate(20px, 50px); */
+}
+
+.conrainer{
+    width: 100vw;
+    background-color: bisque;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box1{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+}
+
+.box2{
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+}
+
+.box3{
+    width: 200px;
+    height: 200px;
+    background-color: black;
+}
+
+@media screen and (min-width: 610px) and (max-width: 700px){
+    .conrainer{
+        flex-direction: column;
+    }
+    .box3, .box1, .box2{
+        width: 100%;
+    }
+}
+
+img{
+    width: 100%;
+    height: auto;
+}
